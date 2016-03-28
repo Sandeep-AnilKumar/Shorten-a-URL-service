@@ -1,6 +1,6 @@
-"# Shorten-a-URL-service" 
+# Shorten-a-URL-service
 
-"#ShortenALongURL.java"
+##ShortenALongURL.java
 
 
 When a text file containing a list of long URL's is gievn as an input to this program, it firsts creates a list of these URL's and passes this to the function shortenURL(urls);
@@ -25,7 +25,9 @@ I/P file : - /com/resources/ShortenURLS.txt
 O/P file : - OutputShortenedURLS.txt (at the home directory.).
 
 
-"#RedirectAShortURL.java".
+
+
+##RedirectAShortURL.java
 
 
 Since I haven't used a Database to store the values of the checksum and the short and long URL's, because I am just showing the working of the code. As such I will have to build the Map's of checksum to shortURl's and domains etc., therefore I am calling the ShortenALongURL.java and creating those Maps. 

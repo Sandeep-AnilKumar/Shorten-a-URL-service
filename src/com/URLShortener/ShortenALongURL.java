@@ -77,7 +77,7 @@ public class ShortenALongURL {
 
 			sb = new StringBuffer();
 			currentURL = i.next();
-			currentURL = currentURL.replaceAll("^http(s)?://(www.)?",""); // Remove http:// or https://.
+			currentURL = currentURL.replaceAll("^http(s)?://(www.)?",""); // Remove http:// or https:// And only at the start.
 
 			parts = currentURL.split("/");
 			domain = parts[0];

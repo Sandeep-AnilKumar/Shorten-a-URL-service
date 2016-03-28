@@ -1,0 +1,14 @@
+https://stackoverflow.com/math/problem1AB/
+https://stackoverflow.com/questions/1085709/what-does-synchronized-mean
+http://stackoverflow.com/questions/tagged/multithreading
+http://stackoverflow.com/questions/tagged/thread-safety
+http://stackoverflow.com/questions/tagged/xcode
+http://stackoverflow.com/questions/2232759/what-is-the-purpose-of-serialization-in-java
+https://www.google.com/fonts
+https://developers.google.com/maps/
+https://www.quora.com/Why-is-the-movie-Batman-v-Superman-Dawn-of-Justice-getting-panned-by-critics
+https://www.quora.com/Whats-the-coolest-feature-youve-seen-in-a-car
+https://www.quora.com/What-are-some-of-the-strangest-facts-about-famous-movies
+https://www.quora.com/questions/1085709/what-does-synchronized-mean
+http://stackoverflow.com/questions/tagged/xcode
+http://www.vogella.com/tutorials/MySQLJava/article.html

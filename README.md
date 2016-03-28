@@ -17,7 +17,7 @@ e.g. : - "https://stackoverflow.com/questions/1085709/what-does-synchronized-mea
 
 "https://www.quora.com/questions/1085709/what-does-synchronized-mean".
 
-In such a case the checksum will be same, but the later will one will be changed to checksum += 1. and again this checksum is checked for clashes.
+In such a case the checksum will be same, but the later one will be changed to checksum += 1. and again this checksum is checked for clashes.
 
 Finally based on the checksum value a short URL is assigned to it. And the ouput is written to a file.
 
